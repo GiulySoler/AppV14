@@ -1,0 +1,28 @@
+npx create-expo-app AwesomeProject // Create a new project
+
+
+************************************************************
+Libraries installations
+############################################################
+npm install react-native-paper 
+
+npm install @react-navigation/native
+
+npm install react-native-screens react-native-safe-area-context
+
+npm install @react-navigation/stack
+
+npx expo install react-native-gesture-handler
+
+npx expo install @react-native-async-storage/async-storage
+
+npx expo install expo-image-picker
+
+************************************************************
+Start Project
+############################################################
+npx expo start // Iniciar o aplicativo 
+
+
+
+https://static.enapter.com/rn/icons/material-community.html
